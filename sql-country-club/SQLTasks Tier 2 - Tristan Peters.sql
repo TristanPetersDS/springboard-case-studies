@@ -1,10 +1,11 @@
 /* Welcome to the SQL mini project. You will carry out this project partly in
 the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
 
-This is Tier 1 of the case study, which means that there'll be more guidance for you about how to 
-setup your local SQLite connection in PART 2 of the case study. 
+This is Tier 2 of the case study, which means that there'll be less guidance for you about how to setup
+your local SQLite connection in PART 2 of the case study. This will make the case study more challenging for you: 
+you might need to do some digging, aand revise the Working with Relational Databases in Python chapter in the previous resource.
 
-The questions in the case study are exactly the same as with Tier 2. 
+Otherwise, the questions in the case study are exactly the same as with Tier 1. 
 
 PART 1: PHPMyAdmin
 You will complete questions 1-9 below in the PHPMyAdmin interface. 
@@ -76,20 +77,10 @@ Order by descending cost, and do not use any subqueries. */
 
 
 /* PART 2: SQLite
-/* We now want you to jump over to a local instance of the database on your machine. 
 
-Copy and paste the LocalSQLConnection.py script into an empty Jupyter notebook, and run it. 
+Export the country club data from PHPMyAdmin, and connect to a local SQLite instance from Jupyter notebook 
+for the following questions.  
 
-Make sure that the SQLFiles folder containing thes files is in your working directory, and
-that you haven't changed the name of the .db file from 'sqlite\db\pythonsqlite'.
-
-You should see the output from the initial query 'SELECT * FROM FACILITIES'.
-
-Complete the remaining tasks in the Jupyter interface. If you struggle, feel free to go back
-to the PHPMyAdmin interface as and when you need to. 
-
-You'll need to paste your query into value of the 'query1' variable and run the code block again to get an output.
- 
 QUESTIONS:
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
