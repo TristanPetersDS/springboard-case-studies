@@ -40,6 +40,3 @@ The dataset used in this project is the **Red Wine Quality Dataset** from Kaggle
 ## Acknowledgments
 This project was inspired by *The Art of Statistics* by Professor Spiegelhalter and is part of the Springboard Data Science curriculum.
 
-## License
-This project is open-source under the MIT License.
-
