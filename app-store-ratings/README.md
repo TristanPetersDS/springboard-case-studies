@@ -10,4 +10,4 @@ This project follows a structured approach to testing the null hypothesis that p
 ## Key Findings
  - The observed difference in mean ratings between platforms was 0.14206.
  - A permutation test with 10,000 simulations was conducted to assess significance.
- - The resulting p-value indicated whether the difference was statistically significant.
+ - The resulting p-value indicated statistical significance between playforms, with the Google Play Store hosting a more favorable platform for app developers.
