@@ -6,11 +6,6 @@ This repository showcases a practical application of K-Nearest Neighbors (KNN) c
 1. [Project Overview](#project-overview)  
 2. [Key Features](#key-features)  
 3. [Technologies & Libraries](#technologies--libraries)  
-4. [Project Structure](#project-structure)  
-5. [Usage](#usage)  
-6. [Results](#results)  
-7. [Contributing](#contributing)  
-8. [License](#license)
 
 ---
 
